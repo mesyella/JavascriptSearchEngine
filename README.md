@@ -13,7 +13,7 @@ Calculate the Term frequency–inverse document frequency from the data and the 
 Find the distance of the input and the data by using cosine similarity and show the shortest distance(nearest).
 
 ## Programming Language
-The programming language used for this search engine is python. Using some library such as nltk, re, string, numpy, and scikit learn.
+The programming language used for this search engine is python. Using some library such as re, string, numpy, and scikit learn.
 
 
 

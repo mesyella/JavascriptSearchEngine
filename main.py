@@ -1,10 +1,7 @@
 import pandas as pd
 import numpy as np
-import nltk
 import re
 import string
-from nltk import FreqDist
-import tkinter as tk
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
